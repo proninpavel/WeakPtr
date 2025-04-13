@@ -1,0 +1,56 @@
+# Build results
+[Bb]in/
+[Oo]bj/
+*.exe
+*.dll
+*.lib
+*.pdb
+
+# VS Code workspace
+.vscode/
+
+# Visual Studio user-specific files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Build logs
+*.log
+
+# Temporary files
+*.tmp
+*.bak
+*.cache
+*.swp
+
+# NuGet packages
+packages/
+*.nupkg
+*.snupkg
+
+# Project-related
+*.vcxproj.user
+*.VC.db
+*.VC.VC.opendb
+
+# CMake
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+
+# Auto-generated files
+Generated Files/
+ipch/
+
+# Windows-specific
+Thumbs.db
+Desktop.ini
+
+# Crash dumps
+*.dmp
+
+.vs
+.git
+x64
